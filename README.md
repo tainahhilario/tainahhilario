@@ -2,7 +2,7 @@
 
 Sobre mim
 ##
-Sou analista de dados especializada em transformar dados em insights valiosos e crio dashboards intuitivos no Power BI. Com uma abordagem analítica e colaborativa, lidero equipes para alcançar resultados eficazes. Sou graduada em Sistemas de Informação, pós-graduada em Gestão de Projetos e atualmente cursando uma segunda pós-graduação em Ciência de Dados e Big Data.⚡
+Sou analista de dados especializada em transformar dados em insights valiosos e criar dashboards intuitivos no Power BI. Com uma abordagem analítica e colaborativa, lidero equipes para alcançar resultados eficazes. Sou graduada em Sistemas de Informação, pós-graduada em Gestão de Projetos e atualmente cursando uma segunda pós-graduação em Ciência de Dados e Big Data.⚡
 
 ##
 
